@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">proje</string>
+    <string name="ilsec">Bir İlçe Seçiniz </string>
+    <string-array name="iller">
+        <item>Merkez</item>
+        <item>rustempasa</item>
+        <item>yuzevler</item>
+        <item>yavuzselım</item>
+        <item>akcay</item>
+        <item>fevzıye</item>
+        <item>akcay</item>
+        <item>hacımercan</item>
+        <item>harmanlık</item>
+        <item>cayıcı</item>
+    </string-array>
+    <string-array name="il">
+        <item>Sapanca</item>
+    </string-array>
+    <string-array name="fiyatlar">
+        <item>1-2 Saat 5 TL</item>
+        <item>2-3 Saat 10 TL</item>
+        <item>3-4 Saat 15 TL</item>
+        <item>4-5 Saat 20 TL</item>
+        <item>5-6 Saat 25 TL</item>
+        <item>Tüm Gün 50 TL</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>
